@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Mahek Roy  
 
 💻 A passionate **Web Developer** who loves building **modern, responsive, and user-friendly applications**.  
-🚀 Currently exploring **React.js**Shery.js** and some other advanced **JavaScript** concepts.  
+🚀 Currently exploring **React.js, Shery.js and some other advanced **JavaScript** concepts.  
 🌐 Open to collaboration on exciting web projects.  
 
 ---
