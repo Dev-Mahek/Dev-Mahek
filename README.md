@@ -25,6 +25,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Shery.js](https://img.shields.io/badge/Shery.js-FF6F61?style=for-the-badge&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Framer Motion React](https://img.shields.io/badge/Framer%20Motion%20(React)-0055FF?style=for-the-badge&logo=react&logoColor=white)
 
 ## 📊 GitHub Stats  
 <p align="center">
