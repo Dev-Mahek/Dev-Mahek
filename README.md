@@ -38,7 +38,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Mahek@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahek-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
 
-
 ---
 
 ⭐️ *"Code is like art — the cleaner it is, the better it speaks."*  
