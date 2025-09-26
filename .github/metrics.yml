@@ -27,4 +27,3 @@ jobs:
 
           # Timezone
           config_timezone: Asia/Kolkata
-
