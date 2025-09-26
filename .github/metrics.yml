@@ -1,1 +1,30 @@
+name: Generate Metrics
+
+on:
+  schedule: [{cron: "0 0 * * *"}] # Runs once every day
+  workflow_dispatch:              # Allows manual trigger
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token with permissions (added as secret)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Output file
+          filename: github-metrics.svg
+
+          # Base sections to include
+          base: header, activity, community, repositories, metadata
+
+          # Plugins
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_achievements: yes
+          plugin_stars: yes
+
+          # Timezone
+          config_timezone: Asia/Kolkata
 
