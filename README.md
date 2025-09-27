@@ -2,7 +2,8 @@
 
 <!-- Row 1 (full width) -->
 <p align="left">
-  <img src="./metrics.base.svg" width="60%"/>
+  <img src="./metrics.base.svg" width="55%"/>
+   <img src="./metrics.plugin.activity.svg" width="45%"/>
 </p>
 
 <!-- Row 2 (2 columns) -->
@@ -21,9 +22,6 @@
   <img src="./metrics.plugin.anilist.characters.svg" width="45%"/>
 </p>
 
-<p align="left">
-  <img src="./metrics.plugin.activity.svg" width="45%"/>
-</p>
 
 ⭐️ *"Code is like art — the cleaner it is, the better it speaks."*  
 <div style="display: flex; gap: 50px; align-items: center;">
