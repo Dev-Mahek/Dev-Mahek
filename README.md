@@ -6,10 +6,13 @@
 </p>
 
 <!-- Row 2 (2 columns) -->
-<p align="center">
-  <img src="./metrics.repository.svg" width="20%"/>
+<p align="left">
+  <img src="./metrics.repository.svg" width="40%"/>
+  <img src="./metrics.row2.calendar.svg" width="40%"/>
+</p>
+
+<p align="left">
   <img src="./metrics.row2.languages.svg" width="20%"/>
-  <img src="./metrics.row2.calendar.svg" width="20%"/>
 </p>
 
 <!-- Row 3 (2 columns) -->
