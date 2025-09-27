@@ -2,8 +2,6 @@
 
 ![Metrics](./github-metrics.svg)
 
-# 👋 Hi, I'm Mahek Roy  
-
 💻 A passionate **Web Developer** who loves building **modern, responsive, and user-friendly applications**.  
 🚀 Currently exploring **React.js, Shery.js and some other advanced **JavaScript** concepts.  
 🌐 Open to collaboration on exciting web projects.  
@@ -28,12 +26,6 @@
 ![Shery.js](https://img.shields.io/badge/Shery.js-FF6F61?style=for-the-badge&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Framer Motion React](https://img.shields.io/badge/Framer%20Motion%20(React)-0055FF?style=for-the-badge&logo=react&logoColor=white)
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Mahek&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dev-Mahek&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150"/>
-</p>  
 
 ## Reach me
 
