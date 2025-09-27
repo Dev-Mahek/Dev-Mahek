@@ -17,6 +17,10 @@
   <img src="./metrics.plugin.anilist.characters.svg" width="40%"/>
 </p>
 
+<p align="center">
+  <img src="./metrics.repository.svg" width="55%"/>
+</p>
+
 ⭐️ *"Code is like art — the cleaner it is, the better it speaks."*  
 <div style="display: flex; gap: 50px; align-items: center;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40" style="fill:#F7DF1E;" />
