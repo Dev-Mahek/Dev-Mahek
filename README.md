@@ -2,7 +2,7 @@
 
 <!-- Row 1 (full width) -->
 <p align="center">
-  <img src="./metrics.base.svg" width="80%"/>
+  <img src="./metrics.base.svg" width="70%"/>
 </p>
 
 <!-- Row 2 (2 columns) -->
