@@ -1,7 +1,8 @@
 ![banner1](https://github.com/user-attachments/assets/e8b96896-8432-4d48-a5f5-d0b4c99b2dad)
 
-# 👋 Hi, I'm Mahek Roy  
 ![Metrics](./github-metrics.svg)
+
+# 👋 Hi, I'm Mahek Roy  
 
 💻 A passionate **Web Developer** who loves building **modern, responsive, and user-friendly applications**.  
 🚀 Currently exploring **React.js, Shery.js and some other advanced **JavaScript** concepts.  
