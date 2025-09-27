@@ -1,12 +1,12 @@
 ![1758954838099](https://github.com/user-attachments/assets/a7670bbd-0c91-4deb-ae14-95b3306fce71)
 
 <!-- Row 1 (full width) -->
-<p align="center">
+<p align="left">
   <img src="./metrics.base.svg" width="64%"/>
 </p>
 
 <!-- Row 2 (2 columns) -->
-<p align="left">
+<p align="center">
   <img src="./metrics.row2.languages.svg" width="49%"/>
   <img src="./metrics.row2.calendar.svg" width="38%"/>
 </p>
