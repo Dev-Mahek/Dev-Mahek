@@ -1,6 +1,22 @@
 ![1758954838099](https://github.com/user-attachments/assets/a7670bbd-0c91-4deb-ae14-95b3306fce71)
 
-![Metrics](./github-metrics.svg)
+<!-- Row 1 (full width) -->
+<p align="center">
+  <img src="./metrics.base.svg" width="100%"/>
+</p>
+
+<!-- Row 2 (2 columns) -->
+<p align="center">
+  <img src="./metrics.row2.languages.svg" width="49%"/>
+  <img src="./metrics.row2.calendar.svg" width="49%"/>
+</p>
+
+<!-- Row 3 (2 columns) -->
+<p align="center">
+  <img src="./metrics.row3.anilist.svg" width="49%"/>
+  <img src="./metrics.row3.achievements.svg" width="49%"/>
+</p>
+
 
 ⭐️ *"Code is like art — the cleaner it is, the better it speaks."*  
 
