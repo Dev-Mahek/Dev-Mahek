@@ -1,5 +1,7 @@
 ![1758954838099](https://github.com/user-attachments/assets/a7670bbd-0c91-4deb-ae14-95b3306fce71)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=35&pause=1000&color=22F7A7&vCenter=true&multiline=true&width=600&height=60&lines=Crafting+Modern+Web+Experience.)](https://git.io/typing-svg)
+
 <!-- Row 1 (full width) -->
 <p align="left">
   <img src="./metrics.base.svg" width="50%"/>
