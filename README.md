@@ -21,7 +21,7 @@
   <img src="./metrics.plugin.anilist.characters.svg" width="45%"/>
 </p>
 
-<p>
+<p align="left">
    <img src="./metrics.plugin.wakatime.svg" width="40%"/>
 </p>
 
