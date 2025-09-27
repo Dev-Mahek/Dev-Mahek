@@ -7,9 +7,9 @@
 
 <!-- Row 2 (2 columns) -->
 <p align="center">
-  <img src="./metrics.repository.svg" width="55%"/>
-  <img src="./metrics.row2.languages.svg" width="55%"/>
-  <img src="./metrics.row2.calendar.svg" width="40%"/>
+  <img src="./metrics.repository.svg" width="20%"/>
+  <img src="./metrics.row2.languages.svg" width="20%"/>
+  <img src="./metrics.row2.calendar.svg" width="20%"/>
 </p>
 
 <!-- Row 3 (2 columns) -->
