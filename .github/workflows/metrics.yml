@@ -38,18 +38,29 @@ jobs:
           plugin_isocalendar_duration: full-year
 
       # ✨ Row 3: AniList + Achievements
-      - uses: lowlighter/metrics@latest
+      - name: Favorites anime and currently watching
+        uses: lowlighter/metrics@latest
         with:
-          filename: metrics.row3.anilist.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.anilist.svg
+          token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
-          plugin_anilist_favorites_characters: yes
-          plugin_anilist_favorites_manga: yes
           plugin_anilist_user: MahekScripts
           plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 1
 
+      - name: Favorites characters
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.characters.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 22
+
+          
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.row3.achievements.svg
