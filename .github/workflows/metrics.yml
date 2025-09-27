@@ -17,6 +17,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
+
+           # 🖼️ Layout
+          config_display: columns
+          config_order: base.header, base.activity, base.community, base.repositories, base.metadata
+
 
           # Plugins  
           plugin_isocalendar: yes
@@ -31,7 +37,7 @@ jobs:
           # (Optional) Anime list from AniList
           plugin_anilist: yes
           plugin_anilist_user: MahekScripts
-          plugin_anilist_sections: favorites, watching
-          plugin_anilist_medias: anime, manga
+          plugin_anilist_sections: favorites
+          plugin_anilist_medias: anime
           plugin_anilist_limit: 3
           config_timezone: Asia/Kolkata
