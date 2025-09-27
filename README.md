@@ -12,10 +12,15 @@
 </p>
 
 <!-- Row 3 (2 columns) -->
-<p align="left">
+        <p align="left">
+          <img src="./metrics.row3.anilist.svg" width="55%"/>
+          <img src="./metrics.row3.achievements.svg" width="30%"/>
+        </p>
+        
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="./metrics.row3.anilist.svg" width="55%"/>
   <img src="./metrics.row3.achievements.svg" width="30%"/>
-</p>
+</div>
 
 ⭐️ *"Code is like art — the cleaner it is, the better it speaks."*  
 <div style="display: flex; gap: 50px; align-items: center;">
