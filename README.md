@@ -2,10 +2,6 @@
 
 ![Metrics](./github-metrics.svg)
 
-💻 A passionate **Web Developer** who loves building **modern, responsive, and user-friendly applications**.  
-🚀 Currently exploring **React.js, Shery.js and some other advanced **JavaScript** concepts.  
-🌐 Open to collaboration on exciting web projects.  
-
 ## 💖 I love working with
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
