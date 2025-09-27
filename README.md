@@ -4,4 +4,4 @@
 
 ⭐️ *"Code is like art — the cleaner it is, the better it speaks."*  
 
-![Nagumo __ Sakamoto Days __ Chapter 74](https://github.com/user-attachments/assets/fea9102d-b9a9-4f24-a973-60696dcd43e2)
+![e17ab9681bec36303a67cd0e13a7b170](https://github.com/user-attachments/assets/0bd2f2c5-be6b-474f-890f-a0c9c2d333b6)
