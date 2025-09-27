@@ -27,6 +27,7 @@ jobs:
           plugin_notable: yes
           plugin_topics: yes
           plugin_repositories: yes
+          plugin_repositories_starred: yes
 
           # (Optional) Anime list from AniList
           plugin_anilist: yes
