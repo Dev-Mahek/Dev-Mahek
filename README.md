@@ -21,9 +21,6 @@
   <img src="./metrics.plugin.anilist.characters.svg" width="45%"/>
 </p>
 
-<p align="left">
-   <img src="./metrics.plugin.wakatime.svg" width="40%"/>
-</p>
 
 ⭐️ *"Code is like art — the cleaner it is, the better it speaks."*  
 <div style="display: flex; gap: 50px; align-items: center;">
