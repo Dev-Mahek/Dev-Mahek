@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  <img src="./metrics.row2.languages.svg" width="20%"/>
+  <img src="./metrics.row2.languages.svg" width="40%"/>
 </p>
 
 <!-- Row 3 (2 columns) -->
@@ -21,9 +21,6 @@
   <img src="./metrics.plugin.anilist.characters.svg" width="40%"/>
 </p>
 
-<p align="center">
-  <img src="./metrics.repository.svg" width="55%"/>
-</p>
 
 ⭐️ *"Code is like art — the cleaner it is, the better it speaks."*  
 <div style="display: flex; gap: 50px; align-items: center;">
