@@ -12,5 +12,4 @@
 
 ⭐️ *"Code is like art — the cleaner it is, the better it speaks."*  
 
-
-![Osaragi](https://github.com/user-attachments/assets/81a69634-a869-4766-a926-2f8d62282e2c)
+![Nagumo __ Sakamoto Days __ Chapter 74](https://github.com/user-attachments/assets/fea9102d-b9a9-4f24-a973-60696dcd43e2)
