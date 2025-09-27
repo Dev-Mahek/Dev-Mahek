@@ -1,4 +1,4 @@
-![kirill-mashkovtsev-](https://github.com/user-attachments/assets/7ceb1e75-2f61-4075-afd6-26cb526abaf7)
+![1758954838099](https://github.com/user-attachments/assets/a7670bbd-0c91-4deb-ae14-95b3306fce71)
 
 ![Metrics](./github-metrics.svg)
 
