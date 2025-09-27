@@ -14,7 +14,7 @@
 <!-- Row 3 (2 columns) -->
 <p align="left">
   <img src="./metrics.plugin.anilist.svg" width="55%"/>
-  <img src="./metrics.plugin.anilist.characters.svg" width="30%"/>
+  <img src="./metrics.plugin.anilist.characters.svg" width="40%"/>
 </p>
 
 ⭐️ *"Code is like art — the cleaner it is, the better it speaks."*  
