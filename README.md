@@ -12,8 +12,8 @@
 </p>
 
 <!-- Row 3 (2 columns) -->
-<p align="center">
-  <img src="./metrics.row3.anilist.svg" width="60%"/>
+<p align="left">
+  <img src="./metrics.row3.anilist.svg" width="55%"/>
   <img src="./metrics.row3.achievements.svg" width="30%"/>
 </p>
 
