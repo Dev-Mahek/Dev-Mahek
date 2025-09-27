@@ -16,14 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-
-           # 🖼️ Layout
-          config_display: columns
-          config_columns: 2   # 👈 force 2-column layout (side by side)
-          config_order: base.header, isocalendar, languages, anilist, achievements
-
-          base: header
-          base_indepth: yes
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           
           # Plugins  
