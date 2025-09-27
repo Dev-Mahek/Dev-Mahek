@@ -7,7 +7,7 @@
 
 <!-- Row 2 (2 columns) -->
 <p align="center">
-  <img src="./metrics.row2.languages.svg" width="49%"/>
+  <img src="./metrics.row2.languages.svg" width="55%"/>
   <img src="./metrics.row2.calendar.svg" width="38%"/>
 </p>
 
@@ -18,7 +18,7 @@
 </p>
 
 ⭐️ *"Code is like art — the cleaner it is, the better it speaks."*  
-<div style="display: flex; gap: 10px; align-items: center;">
+<div align= "center" style="display: flex; gap: 10px; align-items: center;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40" style="fill:#F7DF1E;" />
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="40" height="40" style="fill:#F7DF1E;" />
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40" height="40" style="fill:#F7DF1E;" />
