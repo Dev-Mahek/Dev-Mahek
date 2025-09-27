@@ -44,7 +44,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_anilist: yes
-          plugin_anilist_user: yourAniListUsername
+          plugin_anilist_favorites_characters: yes
+          plugin_anilist_favorites_manga: yes
+          plugin_anilist_user: MahekScripts
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites
 
