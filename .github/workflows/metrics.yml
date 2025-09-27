@@ -19,6 +19,7 @@ jobs:
 
            # 🖼️ Layout
           config_display: columns
+          config_columns: 2   # 👈 force 2-column layout (side by side)
           config_order: base.header, isocalendar, languages, anilist, achievements
 
           base: header
