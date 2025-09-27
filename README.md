@@ -13,8 +13,8 @@
 
 <!-- Row 3 (2 columns) -->
 <p align="center">
-  <img src="./metrics.row3.anilist.svg" width="49%"/>
-  <img src="./metrics.row3.achievements.svg" width="49%"/>
+  <img src="./metrics.row3.anilist.svg" width="60%"/>
+  <img src="./metrics.row3.achievements.svg" width="30%"/>
 </p>
 
 ⭐️ *"Code is like art — the cleaner it is, the better it speaks."*  
