@@ -4,6 +4,10 @@ on:
   schedule: [{cron: "0 0 * * *"}] # Runs once every day at midnight
   workflow_dispatch:              # Allows manual trigger
 
+permissions:
+  contents: write # Grants the token WRITE access to the repository contents
+  # Add other permissions if needed, e.g., issues: write, pull-requests: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
