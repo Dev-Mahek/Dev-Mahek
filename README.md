@@ -19,7 +19,7 @@
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats" />
 </p>
@@ -28,10 +28,10 @@
 
 <p align="left">
   <a href="https://github.com/Dev-Mahek/javascriptDOM-playground">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Mahek&repo=javascriptDOM-playground&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Mahek&repo=javascriptDOM-playground&theme=tokyonight" width="300/>
   </a>
   <a href="https://github.com/Dev-Mahek/awesome-css-animations">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Mahek&repo=awesome-css-animations&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Mahek&repo=awesome-css-animations&theme=tokyonight" width="300/>
   </a>
 </p>
 
