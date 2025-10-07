@@ -20,8 +20,8 @@
 
 <!-- Row 3 (2 columns) -->
 <p align="left">
-  <img src="./metrics.plugin.anilist.svg" width="45%"/>
-  <img src="./metrics.plugin.anilist.characters.svg" width="45%"/>
+  <img src="./metrics.plugin.anilist.svg" width="50%"/>
+  <img src="./metrics.plugin.anilist.characters.svg" width="50%"/>
 </p>
 
 <!-- Tools I have Used and Learnin -->
