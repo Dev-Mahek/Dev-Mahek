@@ -58,5 +58,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="60" height="60" style="fill:#F7DF1E;"/> 
 </div>
 
-<img width="736" height="1030" alt="2912185adc5808dfb3af247a2779d648" src="https://github.com/user-attachments/assets/4ce93ff6-de66-4a01-bfbd-fba30e26b1a9" width="200" />
-
+<img src="https://github.com/user-attachments/assets/329182a9-2ca4-42f4-a47a-6326c2f1f14e" 
+     alt="Profile Image" 
+     width="400" 
+     style="display:block; margin:0 auto; padding:0;" />
