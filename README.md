@@ -4,8 +4,8 @@
 
 <!-- Row 1 (full width) -->
 <p align="left">
-  <img src="./metrics.base.svg" width="65%"/>
-  <img src="./metrics.plugin.activity.svg" width="55%"/>
+  <img src="./metrics.base.svg" width="70%"/>
+  <img src="./metrics.plugin.activity.svg" width="60%"/>
 </p>
 
 <!-- Row 2 (2 columns) -->
@@ -21,7 +21,7 @@
 <!-- Row 3 (2 columns) -->
 <p align="left">
   <img src="./metrics.plugin.anilist.svg" width="60%"/>
-  <img src="./metrics.plugin.anilist.characters.svg" width="60%"/>
+  <img src="./metrics.plugin.anilist.characters.svg" width="65%"/>
 </p>
 
 <!-- Tools I have Used and Learnin -->
