@@ -15,13 +15,13 @@
 </p>
 
 <p align="left">
-  <img src="./metrics.row2.languages.svg" width="45%"/>
+  <img src="./metrics.row2.languages.svg" width="60%"/>
 </p>
 
 <!-- Row 3 (2 columns) -->
 <p align="left">
-  <img src="./metrics.plugin.anilist.svg" width="50%"/>
-  <img src="./metrics.plugin.anilist.characters.svg" width="50%"/>
+  <img src="./metrics.plugin.anilist.svg" width="60%"/>
+  <img src="./metrics.plugin.anilist.characters.svg" width="60%"/>
 </p>
 
 <!-- Tools I have Used and Learnin -->
