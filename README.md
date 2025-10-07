@@ -29,6 +29,11 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dev_Mahek&theme=tokyonight&layout=compact" width="400"/>
+</p>
+
+
 <!-- Row 3 (2 columns) -->
 <p align="left">
   <img src="./metrics.plugin.anilist.svg" width="60%"/>
