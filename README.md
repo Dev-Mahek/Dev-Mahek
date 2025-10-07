@@ -14,6 +14,9 @@
   <img src="./metrics.row2.calendar.svg" width="40%"/>
 </p>
 
+<p align="left">
+  <img src="./metrics.row2.languages.svg" width="60%"/>
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -21,15 +24,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats" />
 </p>
 
+## 🌟 Featured Repository
 
 <p align="left">
-  <img src="./metrics.row2.languages.svg" width="60%"/>
+  <a href="https://github.com/Dev-Mahek/javascriptDOM-playground">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Mahek&repo=javascriptDOM-playground&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Dev-Mahek/awesome-css-animations">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Mahek&repo=awesome-css-animations&theme=tokyonight" />
+  </a>
 </p>
 
 <!-- Row 3 (2 columns) -->
 <p align="left">
   <img src="./metrics.plugin.anilist.svg" width="60%"/>
   <img src="./metrics.plugin.anilist.characters.svg" width="65%"/>
+  
 </p>
 
 <!-- Tools I have Used and Learnin -->
