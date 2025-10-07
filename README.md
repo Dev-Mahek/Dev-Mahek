@@ -29,18 +29,16 @@
   </a>
 </p>
 
-## 🕒 Weekly Coding Stats
+## ⌚ Weekly Coding Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dev_Mahek&theme=tokyonight&layout=compact" width="600"/>
 </p>
 
-
 <!-- Row 3 (2 columns) -->
 <p align="left">
   <img src="./metrics.plugin.anilist.svg" width="60%"/>
   <img src="./metrics.plugin.anilist.characters.svg" width="65%"/>
-  
 </p>
 
 <!-- Tools I have Used and Learnin -->
