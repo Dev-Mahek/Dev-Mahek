@@ -14,6 +14,14 @@
   <img src="./metrics.row2.calendar.svg" width="40%"/>
 </p>
 
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="Streak Stats" />
+</p>
+
+
 <p align="left">
   <img src="./metrics.row2.languages.svg" width="60%"/>
 </p>
