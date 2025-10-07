@@ -22,10 +22,10 @@
 
 <p align="left">
   <a href="https://github.com/Dev-Mahek/javascriptDOM-playground">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Mahek&repo=javascriptDOM-playground&theme=tokyonight" width="300/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Mahek&repo=javascriptDOM-playground&theme=tokyonight" width="300"/>
   </a>
-  <a href="https://github.com/Dev-Mahek/awesome-css-animations">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Mahek&repo=awesome-css-animations&theme=tokyonight" width="300/>
+  <a href="https://github.com/Dev-Mahek/awesome-css-animations.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev-Mahek&repo=awesome-css-animations&theme=tokyonight" width="300"/>
   </a>
 </p>
 
