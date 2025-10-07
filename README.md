@@ -55,6 +55,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" width="60" height="60" style="fill:#F7DF1E;" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" style="fill:#F7DF1E;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="60" height="60" style="fill:#F7DF1E;"/>            
-<!-- <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest?cb=20231024190052" width="60" height="60" style="fill:#F7DF1E;" /> -->
 <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="60" height="60" style="fill:#F7DF1E;"/> 
 </div>
+
+<img width="736" height="1030" alt="2912185adc5808dfb3af247a2779d648" src="https://github.com/user-attachments/assets/4ce93ff6-de66-4a01-bfbd-fba30e26b1a9" />
+
