@@ -24,16 +24,20 @@
   <img src="./metrics.plugin.anilist.characters.svg" width="45%"/>
 </p>
 
-<!-- Tools I have Used and Learning -->
-<h5> 🚀 &nbsp;Some Tools I Have Used and Learned</h5>
-<div style="display: flex; gap: 50px; align-items: center;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40" style="fill:#F7DF1E;" />
-<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="40" height="40" style="fill:#F7DF1E;" />
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="40" height="40" style="fill:#F7DF1E;" />
-<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="40" height="40" style="fill:#F7DF1E;" />
-<img src="https://img.icons8.com/?size=100&id=B403GJErHZpx&format=png&color=000000" width="40" height="40" style="fill:#F7DF1E;" />
-<img src="https://img.icons8.com/?size=100&id=8MpEUZojDaky&format=png&color=000000" width="40" height="40" style="fill:#F7DF1E;" />
-<img src="https://img.icons8.com/?size=100&id=UdSQaJwuiGuy&format=png&color=000000" width="40" height="40" style="fill:#F7DF1E;" />
-<img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest?cb=20231024190052" width="40" height="40" style="fill:#F7DF1E;" />
-<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="40" height="40" style="fill:#F7DF1E;" />
+<!-- Tools I have Used and Learnin -->
+<h2> 🚀 &nbsp;Tech Stack</h2>
+<div style="display: flex; gap: 60px; align-items: center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="60" height="60" style="fill:#F7DF1E;" />
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />
+<img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />
+<img src="https://img.icons8.com/?size=100&id=B403GJErHZpx&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />
+<img src="https://img.icons8.com/?size=100&id=8MpEUZojDaky&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />
+<img src="https://img.icons8.com/?size=100&id=UdSQaJwuiGuy&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />       
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" width="60" height="60" style="fill:#F7DF1E;" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" style="fill:#F7DF1E;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="60" height="60" style="fill:#F7DF1E;"/>            
+<!-- <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest?cb=20231024190052" width="60" height="60" style="fill:#F7DF1E;" /> -->
+<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="60" height="60" style="fill:#F7DF1E;"/> 
 </div>
