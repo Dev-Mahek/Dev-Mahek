@@ -4,8 +4,8 @@
 
 <!-- Row 1 (full width) -->
 <p align="left">
-  <img src="./metrics.base.svg" width="50%"/>
-  <img src="./metrics.plugin.activity.svg" width="45%"/>
+  <img src="./metrics.base.svg" width="60%"/>
+  <img src="./metrics.plugin.activity.svg" width="50%"/>
 </p>
 
 <!-- Row 2 (2 columns) -->
