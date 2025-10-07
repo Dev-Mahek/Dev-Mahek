@@ -32,7 +32,7 @@
 ## 🕒 Weekly Coding Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dev_Mahek&theme=tokyonight&layout=compact" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dev_Mahek&theme=tokyonight&layout=compact" width="600"/>
 </p>
 
 
