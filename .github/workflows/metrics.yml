@@ -70,7 +70,7 @@ jobs:
           filename: metrics.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: Dev-Mahek
-          repo: awesome-css-animations
+          repo: javascriptDOM-playground
           plugin_lines: yes
           plugin_followup: yes
           plugin_projects: yes
