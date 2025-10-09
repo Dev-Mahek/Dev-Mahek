@@ -35,6 +35,10 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dev_Mahek&theme=tokyonight&layout=compact" width="600"/>
 </p>
 
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dev-Mahek&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7)
+
+
 <!-- Row 3 (2 columns) -->
 <p align="left">
   <img src="./metrics.plugin.anilist.svg" width="60%"/>
