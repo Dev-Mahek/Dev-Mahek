@@ -5,7 +5,6 @@
 <!-- Row 1 (full width) -->
 <p align="left">
   <img src="./metrics.base.svg" width="70%"/>
-  <img src="./metrics.plugin.habits.facts.svg" width="60"/>
   <img src="./metrics.plugin.people.followers.svg" width="60%"/>
 </p>
 
