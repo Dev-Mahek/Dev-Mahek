@@ -6,6 +6,7 @@
 <p align="left">
   <img src="./metrics.base.svg" width="70%"/>
   <img src="./metrics.plugin.activity.svg" width="60%"/>
+  <img src="./metrics.plugin.people.followers.svg" width="60%"/>
 </p>
 
 <!-- Row 2 (2 columns) -->
