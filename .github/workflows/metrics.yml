@@ -87,7 +87,7 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
 
-      #followeras
+      # followeras
       - name: Followers
         uses: lowlighter/metrics@latest
         with:
