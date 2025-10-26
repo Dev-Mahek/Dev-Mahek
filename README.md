@@ -62,6 +62,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="60" height="60" style="fill:#F7DF1E;"/> 
 </div>
 
+<!-- this part is for anime image section -->
+
 <p align="left">
 <img src="https://github.com/user-attachments/assets/149bd414-7278-470b-9d61-39a155d2b373" 
      alt="Profile Image" 
