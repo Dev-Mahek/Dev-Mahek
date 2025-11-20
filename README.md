@@ -8,7 +8,7 @@
   <img src="./metrics.plugin.people.followers.svg" width="60%"/>
 </p>
 
-<!-- Row 2 (2 columns) -->
+<!----- Row 2 (2 columns) ------>
 <p align="left">
   <img src="./metrics.repository.svg" width="45%"/>
   <img src="./metrics.row2.calendar.svg" width="40%"/>
