@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=500&size=35&pause=1000&color=22F7A7&vCenter=true&multiline=true&width=600&height=60&lines=Crafting+Modern+Web+Experience.)](https://git.io/typing-svg)
 
-<!-------------------------- Row 1 (full width) ------------------------------->
+<!-------------------------- Row 1 (full width) ----------------------------------->
 <p align="left">
   <img src="./metrics.base.svg" width="70%"/>
   <img src="./metrics.plugin.people.followers.svg" width="60%"/>
