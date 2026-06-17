@@ -58,8 +58,8 @@
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60" style="fill:#F7DF1E;" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" style="fill:#F7DF1E;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="60" height="60" style="fill:#F7DF1E;"/>            
-<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="60" height="60" style="fill:#F7DF1E;"/>
+<img src="https://www.svgrepo.com/show/452055/linux-mint.svg" width="60" height="60" style="fill:#F7DF1E;"/>            
+<img src="https://www.svgrepo.com/show/452129/vs-code.svg" width="60" height="60" style="fill:#F7DF1E;"/>
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="60" height="60" style="fill:#F7DF1E;"/> 
 <img src="https://www.svgrepo.com/show/373554/django.svg" width="60" height="60" style="fill:#F7DF1E;"/>
 <img src="https://www.svgrepo.com/show/452210/git.svg" width="60" height="60" style="fill:#F7DF1E;"/>
