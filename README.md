@@ -52,8 +52,6 @@
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />
 <img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />
-<img src="https://img.icons8.com/?size=100&id=B403GJErHZpx&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />
-<img src="https://img.icons8.com/?size=100&id=8MpEUZojDaky&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />
 <img src="https://img.icons8.com/?size=100&id=UdSQaJwuiGuy&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />       
 <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="60" height="60" style="fill:#F7DF1E;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60" style="fill:#F7DF1E;" />  
