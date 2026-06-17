@@ -61,7 +61,8 @@
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="60" height="60" style="fill:#F7DF1E;"/> 
 <img src="https://www.svgrepo.com/show/373554/django.svg" width="60" height="60" style="fill:#F7DF1E;"/>
 <img src="https://www.svgrepo.com/show/452210/git.svg" width="60" height="60" style="fill:#F7DF1E;"/>
-<img src="https://www.svgrepo.com/show/452054/linux.svg" height="60" style="fill:#F7DF1E;"/> 
+<img src="https://www.svgrepo.com/show/452054/linux.svg" height="60" style="fill:#F7DF1E;"/>
+<img src="https://www.svgrepo.com/show/373270/light-mysql.svg" height="60" style="fill:#F7DF1E;"/> 
 </div>
 
 <!-- this part is for anime image section -->
